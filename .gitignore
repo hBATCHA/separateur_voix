@@ -5,3 +5,4 @@ __pycache__/
 .idea
 audio_separeted/
 pretrained_models/
+*.mp3

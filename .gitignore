@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .idea
-audio_separeted
-pretrained_models
+audio_separeted/
+pretrained_models/
